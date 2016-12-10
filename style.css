@@ -1272,7 +1272,13 @@ overflow-x: hidden;}
 }
 
 .icon {
-    padding:12px;
+    margin-top: 24px;
+    margin-bottom: 8px;
+    max-height: 200px;
+}
+
+.dl-icon {
+    max-height: 100px;
 }
 
 .round {
